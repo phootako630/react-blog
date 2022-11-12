@@ -9,7 +9,7 @@
 /coverage
 
 # production
-/build
+/my-blog-banckend/build
 
 # misc
 .DS_Store
